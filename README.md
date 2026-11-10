@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on mobile application for managing medical data<br>👯 I’m looking to collaborate in creating mobile applications<br>🤝 I’m looking for help with improving my development skills<br>🌱 I’m currently learning Kotlin with Ktor framework<br>💬 Ask me about what we could create together<br> 📫 U can reach me on linkedin :3 <br>⚡ Fun fact I'm learning kanji
+🔭 I’m currently working on a lot stuff for PGL<br>👯 I’m looking to collaborate in creating mobile applications<br>🤝 I’m looking for help with improving my development skills<br>🌱 I’m currently learning Kotlin and Java<br>💬 Ask me about what we could create together<br> 📫 U can reach me on linkedin :3 <br>⚡ Fun fact I'm learning kanji
 
 
 ## 🌐 Socials:
